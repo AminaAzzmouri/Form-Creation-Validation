@@ -32,3 +32,16 @@ All inputs are validated before submission to ensure proper format and data inte
 
 ## 📂 File Structure
 
+Form-Creation-Validation/
+│
+├── index.html         # The HTML file containing the form structure
+├── style.css          # CSS file for styling the form
+├── script.js          # JavaScript file for validation logic
+└── README.md          # Project documentation
+
+
+## License
+This project is open-source and free to use for educational or personal use.
+
+## Author
+[Amina Azzmouri]
