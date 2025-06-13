@@ -2,46 +2,53 @@
 
 ## 📋 Project Overview
 
-This project demonstrates how to build a **User Registration Form** using **HTML, CSS, and JavaScript**, with a focus on **client-side form validation**.
+This project demonstrates building interactive web applications using **HTML, CSS, and JavaScript**. It includes:
 
-The form collects:
-- Username
-- Email
-- Password
-
-All inputs are validated before submission to ensure proper format and data integrity.
+- A **User Registration Form** with client-side validation
+- A **Simple Calculator** performing basic arithmetic operations
+- A **User Data Fetching** feature that retrieves and displays data asynchronously from a public API
 
 ---
 
 ## 🚀 Features
 
-- Clean and responsive form design using CSS
+- Clean and responsive form and UI designs using CSS
 - Input validation using **vanilla JavaScript**
-- Feedback display for success and error states
-- Prevents form submission on invalid inputs
+- Interactive arithmetic calculator
+- Asynchronous data fetching and error handling using Fetch API and async/await
+- Dynamic content rendering in the DOM
 
 ---
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
+- HTML5  
+- CSS3  
 - JavaScript (ES6+)
 
 ---
 
 ## 📂 File Structure
 
-Form-Creation-Validation/
-│
-├── index.html         # The HTML file containing the form structure
-├── style.css          # CSS file for styling the form
-├── script.js          # JavaScript file for validation logic
-└── README.md          # Project documentation
+Form-Creation-Validation/  
+│  
+├── index.html           # User Registration Form HTML  
+├── style.css            # Form styling  
+├── script.js            # Form validation logic  
+├── calculator.html      # Simple Calculator HTML  
+├── calculator.css       # Calculator styling  
+├── calculator.js        # Calculator functionality  
+├── fetch-data.html      # User Data Fetch HTML  
+├── fetch-data.css       # Fetch Data styling  
+├── fetch-data.js        # API fetch and display logic  
+└── README.md            # Project documentation  
 
+---
 
 ## License
+
 This project is open-source and free to use for educational or personal use.
 
 ## Author
+
 [Amina Azzmouri]
